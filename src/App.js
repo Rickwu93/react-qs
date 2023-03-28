@@ -16,7 +16,7 @@ const App = () => {
 
   return (
     <div className="App">
-      <h1>hello, {2 + 2}! </h1>
+      <Person />
     </div>
   );
 }
